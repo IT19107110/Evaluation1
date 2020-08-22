@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bus Booking</string>
+    <string name="Date">Enter Date</string>
+    <string name="Departure">Enter Departure</string>
+    <string name="Time">Enter Time</string>
+    <string name="Destination">Enter Destination</string>
+    <string name="Type">Select Type</string>
+    <string name="Agency">Select Agency</string>
+    <string name="Available_Seats">Enter Available Seats</string>
+</resources>
